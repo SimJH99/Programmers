@@ -15,7 +15,6 @@ class Solution {
         
         Arrays.sort(answer);
         
-        
         return answer;
     }
 }
